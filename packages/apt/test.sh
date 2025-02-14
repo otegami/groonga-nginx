@@ -131,7 +131,7 @@ echo "::group::Test"
 cd groonga
 grntest \
   --base-dir=test/command \
-  --n-retries=2 \
+  --n-retries=3 \
   --ngx-http-groonga-module-so=/usr/lib/nginx/modules/ngx_http_groonga_module.so \
   --read-timeout=30 \
   --reporter=mark \
