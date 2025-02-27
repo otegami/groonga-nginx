@@ -1,5 +1,9 @@
 # NEWS
 
+## 1.0.2 - 2025-02-28
+
+Test release!
+
 ## 1.0.1 - 2025-02-25
 
 ### Package Distribution Update
